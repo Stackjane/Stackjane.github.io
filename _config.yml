@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongping Zhang(章鸿平)"
 title_separator          : "-"
 name                     : &name "Hongping Zhang(章鸿平)"
-description              : &description "Master Student @ Zhejiang University"
+description              : &description "Postgraduate of Zhejiang University"
 url                      : https://Stackjane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Stackjane.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hongping Zhang(章鸿平)"
   avatar           : "profile.png"
-  bio              : "Hi~ I am Hongping Zhang(章鸿平 in Chinese). I am currently a Master student at Zhejiang University, advised by Dr. Kai Bu.  In summer of 2022, I obtained my bachelor degree of Engineering from Department of Polymer Science and Engineering, Zhejiang University."
+  bio              : "Master Student @ Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
