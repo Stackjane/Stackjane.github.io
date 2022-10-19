@@ -29,7 +29,7 @@ Education
 Skills
 ======
 * Programming language: Java、C++(learning)
-* calligraphy：official script
+* calligraphy: official script
 
 Publications
 ======
