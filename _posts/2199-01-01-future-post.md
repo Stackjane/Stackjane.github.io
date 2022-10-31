@@ -6,6 +6,7 @@ tags:
   - read papers
   - efficient
 ---
+![avatar](https://www.notion.so/images/page-cover/met_fitz_henry_lane.jpg)
 
 When I set about reading blockchain-related papers, due to lack of prior knowledge, I planned to read my first paper, [*Concurrency and Privacy with Payment-Channel Networks*](https://dl.acm.org/doi/10.1145/3133956.3134096), from cover to cover. The result can be imagined, that is, I spent a lot of time to understand basic terms and concepts, which led to my incoherent understanding of the paper and failure to grasp the topic. Therefore, I spent a week approximately learning about blockchain, then searched for ways to learn how to read scientific papers. Related videos and papers are listed below.
 
