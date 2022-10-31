@@ -1,7 +1,7 @@
 ---
 title: 'Reading a Scientific Paper Efficiently and Critically'
 date: 2022-10-29
-permalink: /posts/2022/10/blog-post-1/
+permalink: /posts/2012/08/blog-post-4/
 tags:
   - read papers
   - efficient
